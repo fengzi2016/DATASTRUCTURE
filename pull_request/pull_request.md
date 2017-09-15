@@ -12,7 +12,7 @@
 6. 再进入你自己的github网页，找到DATASTRUCTURE仓库，你就可以发现这里多了一个gyf分支提醒
 ![Alt step1](./image/5.png)
 7. 再点击右边的Compare & pull request 按钮
-8. 当出现绿色字体的Able to merge【如果你出现了矛盾，说明在你之前有人也Pull request了而且还修改了同一行，这个时候你就戳老师吧】就可以直接点击Create pull request，第一个输入框写你这次融合的备注标题，第二个输入框你可以写写你修改了什么等详细信息
+8. 当出现绿色字体的Able to merge【如果你出现了矛盾，说明在你之前有人也Pull request了而且还修改了同一行，这个时候你就戳老师吧】第一个输入框写你这次融合的备注标题，第二个输入框你可以写写你修改了什么等详细信息，就可以直接点击Create pull request
 ![Alt step1](./image/6.png)
 9. 这就代表你已经向老师发送了pull request请求了，等待老师审核后融合
 ![Alt step1](./image/7.png)
