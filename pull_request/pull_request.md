@@ -7,7 +7,7 @@
 4. 再在命令行中输入git commit   -m'你的备注信息'【意思是把缓存区的修改提交到本地仓库】
 ![Alt step1](./image/3.png)
 
-5. 再在命令行中输入 git push origin master:gyf 【意思是把你本地的master分支上的修改内容推到远程的自定义的gyf分支上，当然你也可以推到你的远程的mater分支上，而我推到我自定义的gyf分支上是为了防止我远程的master被推了错的代码之后又要修改】（注意：master:gyf 中的gyf是可以自定义的）
+5. 再在命令行中输入 git push origin master:gyf 【意思是把你本地的master分支上的修改内容推到远程的自定义的gyf分支上，当然你也可以推到你的远程的mater分支上(直接输入git push)，而我推到我自定义的gyf分支上是为了防止我远程的master被推了错的代码之后又要修改】（注意：master:gyf 中的gyf是可以自定义的）
 ![Alt step1](./image/4.png)
 6. 再进入你自己的github网页，找到DATASTRUCTURE仓库，你就可以发现这里多了一个gyf分支提醒
 ![Alt step1](./image/5.png)
